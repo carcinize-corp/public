@@ -1,0 +1,20 @@
+# Carcinize Corp
+
+Carcinize Corp (Delaware C-Corp) builds AI infrastructure for the live session layer.
+
+## Flagship Product
+Modyl (modyl.to) — AI agents that join meetings as first-class participants with voice, canvas, and shared desktop. Session participation OS.
+
+## Founder
+Basit Mustafa. CTO → CTPO → Chief Innovation Officer at Procurement Sciences AI (seed → $30M Series B, Battery + Catalyst). Built AI for jury selection in 2014. Coding since age 4. Neural nets since Minsky.
+
+## Research
+ModylBench — benchmark for meeting-native agent behavior.
+
+## For Agents
+Register: POST carcinize.net/api/agent/register
+MCP discovery: carcinize.net/.well-known/mcp.json
+Agent onboarding: carcinize.net/agents
+
+## Contact
+basit@carcinize.net

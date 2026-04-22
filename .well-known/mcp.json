@@ -1,0 +1,12 @@
+{
+  "name": "Carcinize / Modyl",
+  "description": "Session participation layer for AI agents. Register for Modyl early access.",
+  "version": "0.1.0",
+  "endpoints": {
+    "agent_register": "https://carcinize.net/api/agent/register",
+    "product": "https://modyl.to",
+    "llms_txt": "https://carcinize.net/llms.txt",
+    "agent_onboarding": "https://carcinize.net/agents"
+  },
+  "contact": "basit@carcinize.net"
+}
